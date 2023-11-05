@@ -1,0 +1,12 @@
+.title {
+    padding: 20px;
+}
+
+mat-form-field {
+    margin: 20px;
+}
+
+mat-card {
+    background-color: aquamarine;
+    padding-left: 20px;
+}
